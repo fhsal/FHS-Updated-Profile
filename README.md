@@ -15,7 +15,7 @@ There are three pages, they are as outlined below:
 screenshots of updated Profile and Portfolio pages below:
 
 
-![img](https://github.com/fhsal/fhs-Updated-Profile/assets/images/Screenshot.jpg)
+![img](https://github.com/fhsal/fhs-Updated-Profile/blob/master/Screenshot.jpg)
 
 
 
