@@ -19,4 +19,4 @@ screenshots of updated Profile and Portfolio pages below:
 
 
 
-![img](https://github.com/fhsal/fhs-Updated-Profile/assets/images/profile.jpg)
+![img](https://github.com/fhsal/fhs-Updated-Profile/blob/master/portfolio.jpg)
