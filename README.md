@@ -2,7 +2,7 @@
 
 This set of pages is a second update of my Portfolio page to include recent full-stack projects and work, updated resume and linked-in profile with appropriate modifications to the layout and elements to accomodate the additional information.  GitHub profile also further updated
 
-Link to the Profile:  https://fhsal.github.io/FHS-Updated-Profile/Index.html
+Link to the Profile:  https://fhsal.github.io/fhs-Updated-Profile/Index.html
 
 There are three pages, they are as outlined below:
 
